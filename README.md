@@ -1,2 +1,12 @@
-# Exploratory_Data_Analysis_for_a_retail_company
-This analysis aims to uncover actionable insights and identify key areas for improvement, ultimately guiding strategic decisions to enhance performance and profitability across Dune's growing international presence.
+# Retail Company
+
+![image](https://github.com/user-attachments/assets/e5ea801e-f66d-459c-8ef6-f89ac4d05430)
+
+## Table of Cotents
+- [Project Overview](#project-overview)
+- [Project Objective](#project-objective)
+- [Data Overview](#data-overview)
+- [Data Preprocessing](#data-preprocessing)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-EDA)
+- [Some Key Insights](#some-key-insights)
+- [Conclusion](#conclusion)
