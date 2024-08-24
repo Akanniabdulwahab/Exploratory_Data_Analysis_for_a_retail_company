@@ -1,6 +1,6 @@
 # Retail Company
 
-![image](https://github.com/user-attachments/assets/e5ea801e-f66d-459c-8ef6-f89ac4d05430)
+![image](https://github.com/user-attachments/assets/bc3a841c-321a-4983-97c6-4d42c762c9ac)
 
 ## Table of Cotents
 - [Project Objective](#project-objective)
