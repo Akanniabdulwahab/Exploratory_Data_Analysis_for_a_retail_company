@@ -14,7 +14,7 @@
 This project aims to explore the data by providing actionable insights which will help identify the areas of opportunity and inform future business decisions aimed at providing better performances by offering great quality essentials and standout styles that cater to a wide range of customers which will inturn increase profitability.
 
 ## Data Overview
-This involved importing the dataset, ivestigated if the features are in their correct datatypes, converting features into their correct datatypes, checked the shape of the dataset, investigated the missing values, visualizing the missing values, performed statistical analysis of numerical & categorical datapoints.
+This involved importing the dataset, investigated if the features are in their correct datatypes, converting features into their correct datatypes, checked the shape of the dataset, investigated the missing values, visualizing the missing values, performed statistical analysis of numerical & categorical datapoints.
 
 ## Data Preprocessing
 Extensive data-preprocessing was performed. This included handling missing values, droppig off redundant features, adding extra features for better analysis. 
